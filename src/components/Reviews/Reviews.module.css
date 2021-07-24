@@ -1,0 +1,17 @@
+.reviews {
+  
+  
+}
+.container    {
+  margin: 0 50px;
+  background-color: cadetblue; 
+  background-image: url=("./images/reviews/reviews_bcg.jpg");
+}
+.bcg{
+  padding-top: 120px;
+  padding-left: 185px;
+}
+
+.item{
+  margin-bottom: 39px;
+}

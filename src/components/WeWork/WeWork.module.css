@@ -1,0 +1,25 @@
+.container{
+    padding: 240px 120px 288px;
+}
+.container>h2{
+    margin: 0 280px;
+    font-size: 46px;
+    line-height: 1.13;
+    font-weight: 400;
+
+}
+.container>h3{
+    margin-bottom: 135px;
+    margin-left: 275px;
+    font-size: 46px;
+    line-height: 1.13;
+}
+.item{
+    display: flex;
+}
+.item:nth-child(even) {
+    flex-direction: row-reverse
+}
+.item:nth-child(odd) >img{
+   margin-right: 90px;
+}

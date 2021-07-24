@@ -1,0 +1,59 @@
+.container{
+    width: 1440px;
+    border-bottom: 1px solid #E0E0E0;
+    ;
+}
+.top{
+    display: flex;
+    justify-content: flex-end;
+}
+.logo-header{
+    margin: 25px 0 25px 120px
+}
+
+.contacts {
+    display: flex;
+}
+.contacts-item {
+margin: 3px 25px 4px 0;
+text-transform: uppercase;
+
+}
+.bottom{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-menubar{
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    margin: 43px 0 41px 261px;
+}
+.nav-item{
+    text-transform: uppercase;
+}
+.nav-item:nth-child(2){
+    margin: 0 120px 0 100px;
+    
+}
+.map{
+    margin-top: 38px;
+}
+.showrooms{
+    margin-left: 360px;
+
+
+}
+.showrooms-text{
+    margin-left: 10px;
+    text-transform: uppercase;
+}
+.cart{
+    padding: 37px 46px 41px 32px;
+    background-color: transparent;
+    border: none;
+   
+}

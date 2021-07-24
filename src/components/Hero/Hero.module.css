@@ -1,0 +1,11 @@
+.container{
+    padding: 48px 56px 0;
+}
+.text-area{
+    display: flex;
+    padding: 82px 205px 0 175px;
+}
+.text-area > p{
+    margin-left: 136px;
+    margin-top: 11px;
+}

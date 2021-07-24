@@ -1,0 +1,36 @@
+{
+  "footer": {
+    "about": [
+      { "id": "1", "link": "Compare" },
+      { "id": "2", "link": "Reviews" },
+      { "id": "3", "link": "Risk-Free Trial" },
+      { "id": "4", "link": "Careers" },
+      { "id": "5", "link": "Press" },
+      { "id": "6", "link": "Podcast" },
+      { "id": "7", "link": "Blog" }
+    ],
+    "showrooms": [
+      { "id": "8", "link": "New York" },
+      { "id": "9", "link": "London" },
+      { "id": "10", "link": "San francisco" },
+      { "id": "11", "link": "Paris" },
+      { "id": "12", "link": "Copenhagen" },
+      { "id": "13", "link": "Zürich" },
+      { "id": "14", "link": "Los Angeles" },
+      { "id": "15", "link": "Berlin" },
+      { "id": "16", "link": "Belgium" },
+      { "id": "17", "link": "Virtual Demo" }
+    ],
+    "support": [
+      { "id": "18", "link": "FAQ" },
+      { "id": "19", "link": "Booth Assembly" },
+      { "id": "20", "link": "Delivery" },
+      { "id": "21", "link": "Room Service" },
+      { "id": "22", "link": "Warranty" },
+      { "id": "23", "link": "Terms of Use" },
+      { "id": "24", "link": "Privacy Policy" },
+      { "id": "25", "link": "Copyright" }
+    ],
+    "office": [{ "id": "26", "link": "599 Broadway, FL 9 New York, NY 10012" }]
+  }
+}

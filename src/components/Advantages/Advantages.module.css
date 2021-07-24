@@ -1,0 +1,19 @@
+.title {
+}
+.item:not(:last-child){
+    margin-right: 55px;
+
+}
+.container{
+    padding: 83px 175px 237px;
+}
+.cardSet{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding-top: 55px;  
+}
+.item > h3{
+    /* display: block; */
+    margin-bottom: 18px;
+   
+}
